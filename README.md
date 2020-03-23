@@ -1,16 +1,12 @@
-# dio_connectivity_retry_interceptor_tutorial
+# Dio Connectivity Retry Interceptor Tutorial
 
-A new Flutter project.
+### Learn from :point_right: [this post](https://resocoder.com/dio-connectivity-interceptor-tutorial) :point_left:.
 
-## Getting Started
+#### _Find more tutorials on [resocoder.com](https://resocoder.com)_
 
-This project is a starting point for a Flutter application.
+<br />
+<br />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Reso Coder](https://resocoder.com/wp-content/uploads/2019/09/logo_with_text_signature.png)](https://resocoder.com)
+<br />
+_Be prepared for **real** app development_
